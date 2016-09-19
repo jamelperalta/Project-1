@@ -1,0 +1,21 @@
+resultsMap: 
+n = 50  	Average time: 24886
+n = 100  	Average time: 24262
+n = 150  	Average time: 28856
+n = 200  	Average time: 26363
+n = 250  	Average time: 36437
+n = 300  	Average time: 31017
+n = 350  	Average time: 42055
+n = 400  	Average time: 39409
+n = 450  	Average time: 38759
+n = 500  	Average time: 34217
+n = 550  	Average time: 39094
+n = 600  	Average time: 44304
+n = 650  	Average time: 45019
+n = 700  	Average time: 53088
+n = 750  	Average time: 70070
+n = 800  	Average time: 88300
+n = 850  	Average time: 68674
+n = 900  	Average time: 65063
+n = 950  	Average time: 58510
+n = 1000  	Average time: 61455

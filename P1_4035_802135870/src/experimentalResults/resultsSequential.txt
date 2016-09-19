@@ -1,0 +1,21 @@
+resultsSequential: 
+n = 50  	Average time: 67421
+n = 100  	Average time: 82579
+n = 150  	Average time: 200949
+n = 200  	Average time: 42130
+n = 250  	Average time: 46484
+n = 300  	Average time: 57515
+n = 350  	Average time: 51258
+n = 400  	Average time: 61465
+n = 450  	Average time: 85136
+n = 500  	Average time: 106683
+n = 550  	Average time: 120373
+n = 600  	Average time: 138376
+n = 650  	Average time: 153118
+n = 700  	Average time: 160235
+n = 750  	Average time: 200359
+n = 800  	Average time: 203110
+n = 850  	Average time: 231291
+n = 900  	Average time: 267473
+n = 950  	Average time: 297130
+n = 1000  	Average time: 304651

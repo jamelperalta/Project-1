@@ -1,0 +1,21 @@
+resultsOrdered: 
+n = 50  	Average time: 77903
+n = 100  	Average time: 126990
+n = 150  	Average time: 30703
+n = 200  	Average time: 57642
+n = 250  	Average time: 64798
+n = 300  	Average time: 97813
+n = 350  	Average time: 96698
+n = 400  	Average time: 116644
+n = 450  	Average time: 159185
+n = 500  	Average time: 168656
+n = 550  	Average time: 207122
+n = 600  	Average time: 309880
+n = 650  	Average time: 426825
+n = 700  	Average time: 376760
+n = 750  	Average time: 402467
+n = 800  	Average time: 354192
+n = 850  	Average time: 400514
+n = 900  	Average time: 490005
+n = 950  	Average time: 504681
+n = 1000  	Average time: 546865
